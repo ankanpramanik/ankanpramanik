@@ -1,7 +1,7 @@
 ### Namaste 👋 Hello 🙏 This is Ankan Pramanik from India.
 
 
-- 🔭 I’m currently working on Frontend Web Development
+- 🔭 I’m currently working on <b>Frontend Web Development</b>
 - 🌱 I’m currently learning Backend Web Development
 - 👯 I’m looking to collaborate on projects based on Python, C or projects on webdev
 - 🤔 I’m looking for help with understanding life!
