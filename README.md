@@ -1,12 +1,12 @@
 ### Namaste 👋 Hello 🙏 This is Ankan Pramanik from India.
 
 
-- 🔭 I’m currently working on <b>Frontend Web Development</b>
-- 🌱 I’m currently learning Backend Web Development
-- 👯 I’m looking to collaborate on projects based on Python, C or projects on webdev
-- 🤔 I’m looking for help with understanding life!
-- 💬 Ask me about cars and animals
-- 📫 How to reach me: ankanpramanik2k@gmail.com
+- 🔭 I’m currently working on <b>Frontend WebDev</b>
+- 🌱 I’m currently learning <b>Backend Web Development</b>
+- 👯 I’m looking to collaborate on projects based on <b>Python, C, Webdev</b>
+- 🤔 I’m looking for help with <b>understanding life!</b>
+- 💬 Ask me about <b>cars and animals</b>
+- 📫 Cath me on <b>ankanpramanik2k@gmail.com</b>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
