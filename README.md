@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning <b>Backend Web Development</b>
 - 👯 I’m looking to collaborate on projects based on <b>Python, C, Webdev</b>
 - 🤔 I’m looking for help with <b>understanding life!</b>
-- 💬 Ask me about <b>cars and animals</b>
+- 💬 Ask me about <b>Cars and Animals</b>
 - 📫 Cath me on <b>ankanpramanik2k@gmail.com</b>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
